@@ -1,0 +1,85 @@
+-------------------------------------------- Voice maker Website --------------------------------------------
+https://voicemaker.in/
+
+
+-------------------------------------------- Company Website --------------------------------------------
+https://www.hollydesk.com/home
+https://www.wippli.com/
+
+-------------------------------------------- Shop Website --------------------------------------------
+http://www.specialone.fr   (dog)
+http://www.thesnugg.com/
+
+-------------------------------------------- restaurant Website --------------------------------------------
+https://in.via.com/
+https://4rsmokehouse.com
+
+-------------------------------------------- showroom Website --------------------------------------------
+https://ideal-showroom.web.app/
+
+-------------------------------------------- service businesses Website --------------------------------------------
+https://www.joinportal.com/
+https://emergentventures.vc/
+https://evolveautowerks.com/
+https://fedscape.net/
+https://fragrance.one/
+http://carderoconstruction.com/
+
+-------------------------------------------- Visitor management system --------------------------------------------
+https://hipla.io/
+
+-------------------------------------------- multi-service system --------------------------------------------
+https://cyberpal.io/
+https://www.1knetworks.com/
+https://vydbox-frontend.vercel.app/
+
+-------------------------------------------- virtual hiring event platform  --------------------------------------------
+https://live-recruit.com
+
+-------------------------------------------- Bank ----------------------------------------------------------------------
+https://purchzone.com/ca-en
+
+-------------------------------------------- Describe your approach to testing and improving QA 
+--------------------------------------------
+There are multiple important things in order to improve quality of the product: 1. use manual testing. 2. writing unit testing. 3. doing regression, stress and load testing. 4. doing penetration testing before release. 5. writing automation and integration tests.
+>>>>>>>>>>>>>>>>>>>>>>>
+Work closely with your product development team. Utilize automation. Continuously groom the test suite. Hold peer reviews often. Integrate agile processes early. Prioritize bug tickets. Hold exploratory testing.
+For this, I am using Jest for QA test tool.
+>>>>>>>>>>>>>>>>>>>>>>>>
+When it comes to testing and improving QA (Quality Assurance), I follow a meticulous approach. I believe in writing comprehensive unit tests to ensure the robustness and reliability of the code. I also carry out integration testing to validate the interaction between different components. Additionally, I am proactive in identifying and fixing bugs by conducting thorough debugging and implementing error monitoring tools. Continuous integration and automated testing remain a vital part of my development process to maintain code quality and streamline the QA process.
+>>>>>>>>>>>>>>>>>>>>>>>>
+My approach to testing includes both manual and automatic testing. I rely heavily on unit testing and integration testing during development. I use Mocha and Jest for testing in JavaScript. Improving quality assurance is a constant process for me - I regularly retrospect on the issues occurred and update my testing strategies while keeping myself updated with the latest QA practices and tools.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+A test approach is a project implementation strategy that outlines how testing would be carried out.
+
+Various Test Approaches
+➟Heuristic and active approaches
+➟Consulting methods
+➟Methodical method, which is based on test cases that fail.
+
+Enhancing QA
+We develop a plan first and test the products and applications next.
+➟Complete a Test Sheet.
+➟Build test plans
+➟Retesting is required after developers have fixed any bugs.
+-------------------------------------------- Describe your recent experience with similar projects --------------------------------------------
+https://color.museum
+This website specializes in minting and marketing Color NFTs, utilizing Next.js , NodeJS , PostgreSQL ,and solidity for smart contracts.This project accomplished an astonishing feat, yielding a staggering revenue of over 400,000 USD within a mere two months of its inception.
+
+https://www.onemodelplace.com/
+This is a SAAS platform for famous models and used React and Laravel for its development stack. This got over 1000k users now.
+
+https://live-recruit.com
+Live Recruit is a virtual hiring event platform that makes it easy to engage potential candidates and fast-track the hiring process.
+Tech Stack: AWS, Nodejs, Angular 12, DynamoDB
+
+https://www.bollyverse.com/
+Bolly Verse: The Universe to Bollywood Celebrities. Visit Bolly-Verse to meet your favorite Star virtually, Buy land and build your home near their home, own their NFTs, Play Games, Watch their shows or even buy products endorsed by them.
+Tech Stack: Web3, Solidity, React, Ruby on Rails, Three.js, GCP
+
+https://pickyassist.com/en/
+Website provides a wide range of services related to automation, chatbots, and communication
+Tech: CRM, jQuery, Bootstrap, JavaScript
+
+I recently developed a task management tool (https://www.wippli.com/) that required expertise in MongoDB, Express.js, React.js, and Node.js - basically, the entire MERN stack. This project, along with others I've worked on, has increased my proficiency in these technologies and helped me develop effective problem-solving strategies.
+

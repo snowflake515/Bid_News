@@ -1,0 +1,46 @@
+📌📌 THE STRATEGY FOR YOUR PROJECT 📌📌
+Hello, thanks for considering me. I will share my strategy for your project.
+1. SEO
+I will optimize your website for local search. I will update your Google Business Profile with accurate information about your location, hours, services, and contact details. This will help search engines provide relevant results to users searching for local businesses.
+2. Increase follow number
+Use relevant hashtags: Hashtags help increase the discoverability of your posts. I will use a mixture of hashtags that are relevant to your content, caption, and business.
+3. Speed
+- I wil compress and resize images to reduce their file size without sacrificing quality. I will use image formats that are suitable for the web, such as JPEG or PNG. Additionally, I will consider lazy loading images, which means loading images only when they are visible on the user's screen. 
+- I will minify and combine JavaScript and CSS files to reduce the number of HTTP requests made by the browser. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Task 1: Build front-end and back-end of the page 1.($100)
+I can finish within a day enough.
+ - Construct a user profile that is based on the user's geolocation using the Geolocation API.
+ - Save the user profile data in a database.
+Task2: Page 2
+I can finish within two days enough.
+ - Implement a feature to display the user's current location using OpenStreetMap tiles on a map with a marker.($100)
+ - Provide a search function that allows users to locate other users either by location or type, displaying these users on the map with markers.($200)
+ - Enable users to input another user's ID to update or delete that user's information from both the database and the map.($100)
+
+After I finish the project, I will update and fix until you like the project enough.
+
+
+//////////////////////////////////////////////////////////////
+
+1. Get current geography data.
+ request permission using navigator.permissions.query({name: 'geolocation'}). Handle the different states returned by this promise: granted, prompt, or denied
+    function success(pos) {
+        const coords = pos.coords;
+        setLocation({
+            latitude: coords.latitude,
+            longitude: coords.longitude,
+            accuracy: coords.accuracy,
+        });
+    }
+
+2. Get user data that nearst from me
+ -  installed the pg package
+ -  connection to your PostgreSQL database 
+ - to get the nearest point to a given location, you might use the ST_Distance and ST_MakePoint functions.
+
+3. Display my location and other location with maker on the map
+ - npm install react-leaflet leaflet
+ - Set up a map component that renders a MapContainer with a TileLayer pointing to OpenStreetMap tiles.
