@@ -25,22 +25,16 @@ After I finish the project, I will update and fix until you like the project eno
 
 //////////////////////////////////////////////////////////////
 
-1. Get current geography data.
- request permission using navigator.permissions.query({name: 'geolocation'}). Handle the different states returned by this promise: granted, prompt, or denied
-    function success(pos) {
-        const coords = pos.coords;
-        setLocation({
-            latitude: coords.latitude,
-            longitude: coords.longitude,
-            accuracy: coords.accuracy,
-        });
-    }
+live:.cid.8ea5ab37c09b9eb     US: Peter Bechtel
 
-2. Get user data that nearst from me
- -  installed the pg package
- -  connection to your PostgreSQL database 
- - to get the nearest point to a given location, you might use the ST_Distance and ST_MakePoint functions.
+hanniballxdgn   Germany: Thomas Poschen
 
-3. Display my location and other location with maker on the map
- - npm install react-leaflet leaflet
- - Set up a map component that renders a MapContainer with a TileLayer pointing to OpenStreetMap tiles.
+https://t.me/RafaelEchart   : Ecuador
+rafaelechartsaltos@gmail.com
+
+
+nicefeel1202@outlook.com
+nicefeel0204@outlook.com
+nicefeel3202@outlook.com
+porstar1224123@proton.me
+nicefeel0208@mailfeare.com
