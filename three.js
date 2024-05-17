@@ -55,21 +55,6 @@ https://my.matterport.com/show/?m=GvwJKug9JkL
 
 
 
-Hello, I bid for your job because I am very excited your posting. 
-I can't hide my excitement.
-I have enough skills, but I haven't found such a job so far.
-I have reason enough. lol.
-So I share one of my projects.
-https://alireza.com/
-This project is carrer site of the company.
-I received request that build the site from saudi client.
-So I have develop the site with full time for a month.
-I have developed the landing page for saudi national cup few days ago.
-But I can't share the site coz the site is checking now.
-
-As show you, I have skill enough, so I think that I can work with you perfectly.
-If you want, I can confirm my skill anytime.
-I am looking forward to working with you.
-Thanks for considering me.
+https://gltf.pmnd.rs/
 /////////////////////////////////////////////////////////
 
